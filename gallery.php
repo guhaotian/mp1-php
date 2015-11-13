@@ -1,4 +1,5 @@
-d><title>Gallery</title>
+<html>
+<head><title>Gallery</title>
 
 </head>
 
